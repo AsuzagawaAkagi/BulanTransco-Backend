@@ -41,4 +41,4 @@ const app = new Elysia()
   })
   .listen({ port: 3002 });
 
-console.log(`🦊 Server is running at http://localhost:${app.server?.port}`);
+console.log(`🦊 Server is running at https://bulatransco-frontend.onrender.com`);
