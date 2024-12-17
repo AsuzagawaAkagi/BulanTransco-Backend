@@ -39,6 +39,6 @@ const app = new Elysia()
 
     return logs;
   })
-  .listen({ port: 3002 });
+  .listen({ port: 44.226.145.213 });
 
 console.log(`🦊 Server is running at https://bulatransco-frontend.onrender.com`);
